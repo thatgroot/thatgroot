@@ -5,7 +5,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ifreetsamit+dev@gmail.com)
 <br> 
 [![Threads](https://img.shields.io/badge/Threads-%40thatgroot-blue?logo=Threads&logoColor=blue&labelColor=black)](https://www.threads.com/@thatgroot)
-[![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~016efa48eb5dc51845?suggest-vem-skills)
+[![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~01b24c107f5b5af596)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Rashid%20Iqbal-blue?logo=Fiverr&logoColor=blue&labelColor=black)](https://www.fiverr.com/nawoapp)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rashid Iqbal</strong></samp></h2>
@@ -73,7 +73,7 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 
 🌍 **Freelancing Platforms:**
 
-[![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~016efa48eb5dc51845?suggest-vem-skills)
+[![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~01b24c107f5b5af596)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Rashid%20Iqbal-blue?logo=Fiverr&logoColor=blue&labelColor=black)](https://www.fiverr.com/nawoapp)
 
 ---
