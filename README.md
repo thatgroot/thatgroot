@@ -2,15 +2,11 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
-[![Mail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ifreetsamit+dev@gmail.com)
-<br> 
-[![Threads](https://img.shields.io/badge/Threads-%40thatgroot-blue?logo=Threads&logoColor=blue&labelColor=black)](https://www.threads.com/@thatgroot)
-[![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~01b24c107f5b5af596)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Rashid%20Iqbal-blue?logo=Fiverr&logoColor=blue&labelColor=black)](https://www.fiverr.com/nawoapp)
+[![Mail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ifreetsamit+dev@gmail.com) 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Rashid Iqbal</strong></samp></h2>
 <h3 align='center'><strong><a href="https://rashid-iqbal.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+<p align='center'>Software developer | Full-stack JavaScript | React developer | Web3 developer ( Solana + EVM ) </p>
 
 ---
 
@@ -31,11 +27,11 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 
 🔙 **Backend**: NodeJS, Express
 
-🌐 **Frontend**: React, JavaScript, TypeScript, Svelte, Svelte Kit
+🌐 **Frontend**: React, JavaScript, TypeScript
 
-⛓️ **Blockchain Development**: Smart Contracts, Dapp, Multichain
+⛓️ **Blockchain Development**: Smart Contracts, Dapp, Multichain, Solidity ( 4 years ), Rust ( 5 months ), Solana ( 2 years )
 
-📱 **Mobile Development**: Flutter, React Native
+📱 **Mobile Development**: React Native
 
 👥 **Team Leadership**: 5 years of experience
 
@@ -55,26 +51,13 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=B7410E)
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
-![Framer](https://img.shields.io/badge/-Framer-000000?style=flat&logo=framer&logoColor=white&labelColor=0055FF)
 
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B&labelColor=ffffff)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=ffffff)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=ffffff)
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-000000?style=flat&logo=svelte&logoColor=FF3E00&labelColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=000000&labelColor=ffffff)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000000?style=flat&logo=nuxt.js&logoColor=00C58E&labelColor=ffffff)
-
-![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E&labelColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20&labelColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933&labelColor=ffffff)
 
----
-
-🌍 **Freelancing Platforms:**
-
-[![Upwork](https://img.shields.io/badge/Upwork-Rashid%20Iqbal-blue?logo=Upwork&logoColor=blue&labelColor=black)](https://www.upwork.com/freelancers/~01b24c107f5b5af596)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Rashid%20Iqbal-blue?logo=Fiverr&logoColor=blue&labelColor=black)](https://www.fiverr.com/nawoapp)
 
 ---
 
