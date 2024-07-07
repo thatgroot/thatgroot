@@ -4,8 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
 [![Mail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ifreetsamit+dev@gmail.com) 
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Rashid Iqbal</strong></samp></h2>
-<h3 align='center'><strong><a href="https://rashid-iqbal.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
+<h2 align='center'><samp><strong>Hi there 👋, I am Rashid Iqbal</strong></samp></h2> 
 <p align='center'>Software developer | Full-stack JavaScript | React developer | Web3 developer ( Solana + EVM ) </p>
 
 ---
