@@ -18,7 +18,7 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 
 **Triangle Technologies**
 - **Chief Technology Architect**
-  - May 2023 - Present (1 year 3 months)
+  - May 2023 - May 2024 (1 year)
   - Pakistan
 
 **MountPackt**
