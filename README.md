@@ -42,7 +42,7 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 
 **UX/UI Design**: Figma (6 years)  
 **Backend**: NodeJS, Express  
-**Frontend**: React, JavaScript, TypeScript  
+**Frontend**: React, Next.js JavaScript, TypeScript  
 **Blockchain Development**: Smart Contracts, Dapp, Multichain, Solidity (4 years), Rust (5 months), Solana (2 years)  
 **Mobile Development**: React Native  
 **Team Leadership**: 5 years of experience  
