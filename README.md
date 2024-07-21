@@ -1,13 +1,11 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am Rashid Iqbal</strong></samp></h2> 
-<p align='center'>Software Developer | Full-stack JavaScript | React Developer | Web3 Developer (Solana + EVM)</p>
-
----
+<h2 align='center'><samp><strong>Software Developer | React | Rust | Typescript | Web3 </strong></samp></h2>   
 
 ### About Me
 
-👋 Hello! I'm Rashid Iqbal, a passionate full-stack developer with over 8 years of design and development experience. I thrive on continuous learning and constantly expanding my knowledge in the world of technology.
-
-I'm always excited to take on new challenges and collaborate on innovative projects. Let's connect and discuss how we can create impactful solutions together.
+With over 8 years of experience in design and development, I use my skills to create new and
+better solutions. I always try to learn new things and stay updated on the latest technology.
+I like taking on new challenges and working with others on exciting projects. Let's connect and
+see how we can use technology to achieve good result.
 
 - **Name**: Rashid Iqbal
 - **Email**: ifreetsamit+dev@gmail.com
@@ -41,7 +39,7 @@ I'm always excited to take on new challenges and collaborate on innovative proje
 ### Skills
 
 **UX/UI Design**: Figma (6 years)  
-**Backend**: NodeJS, Express  
+**Backend**: NodeJS, Nest.js 
 **Frontend**: React, Next.js, JavaScript, TypeScript  
 **Blockchain Development**: Smart Contracts, Dapp, Multichain, Solidity (4 years), Rust (5 months), Solana (2 years)  
 **Mobile Development**: React Native  
