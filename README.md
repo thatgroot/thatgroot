@@ -14,6 +14,12 @@ see how we can use technology to achieve good result.
 
 ### Experience
 
+
+**MountPackt**
+- **Chief Technology Officer**
+  - May 2024 - Present
+  - Gilgit-Baltistan, Pakistan
+
 **Triangle Technologies**
 - **Chief Technology Architect**
   - May 2023 - May 2024 (1 year)
