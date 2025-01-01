@@ -8,7 +8,7 @@ I like taking on new challenges and working with others on exciting projects. Le
 see how we can use technology to achieve good result.
 
 - **Name**: Rashid Iqbal
-- **Email**: ifreetsamit+dev@gmail.com
+- **Email**: service@mountpackt.com
 
 ---
 
