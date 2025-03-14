@@ -1,53 +1,33 @@
-<h2 align='center'><samp><strong>Software Developer | React | Rust | Typescript | Web3 </strong></samp></h2>   
+<h2 align='center'><samp><strong>Creative Technologist | Blockchain Dev | Rustacean | Web3 Enthusiast</strong></samp></h2>   
 
 ### About Me
 
-With over 8 years of experience in design and development, I use my skills to create new and
-better solutions. I always try to learn new things and stay updated on the latest technology.
-I like taking on new challenges and working with others on exciting projects. Let's connect and
-see how we can use technology to achieve good result.
+I'm a builder, creator, and perpetual learner with decade of experience crafting seamless digital experiences and pushing the boundaries of technology. From intuitive web apps to cutting-edge blockchain solutions, I thrive on solving complex problems and turning bold ideas into reality. I'm always experimenting, always iterating — because the next breakthrough is just one line of code away. Let's build something extraordinary together.
 
-- **Name**: Rashid Iqbal
-- **Email**: service@mountpackt.com
+- **Name**: Rashid Iqbal 
 
 ---
 
-### Experience
+### Projects & Innovations
 
+🚀 **Web3 Token Launcher** — Built a dynamic platform for deploying custom tokens on Ethereum and Solana with automated tax and reflection mechanisms.
 
-**MountPackt**
-- **Chief Technology Officer**
-  - May 2024 - Present
-  - Gilgit-Baltistan, Pakistan
+⚡ **Sniper Bot for Ethereum** — Developed a lightning-fast Rust-based sniper bot, integrating Flashbots for frontrunning and mempool monitoring.
 
-**Triangle Technologies**
-- **Chief Technology Architect**
-  - May 2023 - May 2024 (1 year)
-  - Pakistan
+🎨 **AI-Powered Book Summary App** — Created an AI-driven app that generates book summaries and audio versions with customizable narration styles.
 
-**MountPackt**
-- **Chief Technology Officer**
-  - October 2022 - May 2023 (7 months)
-  - Gilgit-Baltistan, Pakistan
+🌉 **Cross-Chain NFT Bridge** — Engineered a multichain NFT bridge enabling seamless asset transfers between Solana, Ethereum, and Polygon.
 
-**Karakoram International University (KIU)**
-- **Mobile & Web Developer**
-  - September 2021 - October 2022 (1 year 2 months)
-  - Gilgit-Baltistan, Pakistan
-
-**Athenix Marketing**
-- **WordPress Developer**
-  - November 2018 - August 2019 (10 months)
-  - United States
+🌐 **Interactive Portfolio Site** — Designed and developed a visually stunning portfolio using Next.js and Framer Motion to showcase Web3 projects.
 
 ---
 
 ### Skills
 
 **UX/UI Design**: Figma (6 years)  
-**Backend**: NodeJS, Nest.js 
+**Backend**: Node.js, Nest.js  
 **Frontend**: React, Next.js, JavaScript, TypeScript  
-**Blockchain Development**: Smart Contracts, Dapp, Multichain, Solidity (4 years), Rust (5 months), Solana (2 years)  
+**Blockchain Development**: Smart Contracts, Dapps, Multichain, Solidity (4 years), Rust (5 months), Solana (2 years)  
 **Mobile Development**: React Native  
 **Team Leadership**: 5 years of experience  
 **Teaching Programming**: 3 years of experience  
@@ -59,18 +39,6 @@ see how we can use technology to achieve good result.
 - **Certified Blockchain Developer**
 - **Full-Stack Web Development Certification**
 - **Project Management Professional (PMP)**
-
----
-
-### Education
-
-**Karakoram International University**
-- BBA-IT, Information Technology
-  - January 2014 - August 2018
-
-**Global Higher Secondary School and Degree College, Danyore, Gilgit**
-- ICS, Computer Science
-  - 2009 - 2013
 
 ---
 
@@ -97,7 +65,7 @@ see how we can use technology to achieve good result.
 
 ---
 
-📝 **_Feel free to contact me. I am always here..._** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/thatgroot?label=Follow%20Me&style=social)](https://github.com/thatgroot)
+📝 **_Got a project in mind? Let's build the future, one block at a time._** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/thatgroot?label=Follow%20Me&style=social)](https://github.com/thatgroot)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
