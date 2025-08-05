@@ -1,78 +1,106 @@
-<h2 align='center'><samp><strong>Creative Technologist | Blockchain Dev | Rustacean | Web3 Enthusiast</strong></samp></h2>   
+# **Rashid Iqbal**
 
-### About Me
-
-I'm a builder, creator, and perpetual learner with decade of experience crafting seamless digital experiences and pushing the boundaries of technology. From intuitive web apps to cutting-edge blockchain solutions, I thrive on solving complex problems and turning bold ideas into reality. I'm always experimenting, always iterating — because the next breakthrough is just one line of code away. Let's build something extraordinary together.
-
-- **Name**: Rashid Iqbal 
+**Creative Technologist | Full-Stack & Web3 Dev | Founder, MountPackt**
+📍 Pakistan (Remote) 🌐 [LinkedIn](https://www.linkedin.com/in/thatgroot/) 📧 [ifreetsamit+dev@gmail.com](mailto:ifreetsamit+dev@gmail.com) 
+🧠 GitHub: [@thatgroot](https://github.com/thatgroot) 🛠 Portfolio: [utoura.com](https://aestho.xyz/)
 
 ---
 
-### Projects & Innovations
+## 🧑‍💻 **About Me**
 
-🚀 **Web3 Token Launcher** — Built a dynamic platform for deploying custom tokens on Ethereum and Solana with automated tax and reflection mechanisms.
-
-⚡ **Sniper Bot for Ethereum** — Developed a lightning-fast Rust-based sniper bot, integrating Flashbots for frontrunning and mempool monitoring.
-
-🎨 **AI-Powered Book Summary App** — Created an AI-driven app that generates book summaries and audio versions with customizable narration styles.
-
-🌉 **Cross-Chain NFT Bridge** — Engineered a multichain NFT bridge enabling seamless asset transfers between Solana, Ethereum, and Polygon.
-
-🌐 **Interactive Portfolio Site** — Designed and developed a visually stunning portfolio using Next.js and Framer Motion to showcase Web3 projects.
+Builder. Technologist. Product hacker. I specialize in **Web3**, **mobile apps**, and **end-to-end digital systems**. I lead **MountPackt**, an agile team that turns ambitious product ideas into polished, high-performance software. From Solana programs to AI apps, Framer websites to mobile launchers — if it’s bold and meaningful, I build it.
 
 ---
 
-### Skills
+## 🚀 **Key Projects**
 
-**UX/UI Design**: Figma (6 years)  
-**Backend**: Node.js, Nest.js  
-**Frontend**: React, Next.js, JavaScript, TypeScript  
-**Blockchain Development**: Smart Contracts, Dapps, Multichain, Solidity (4 years), Rust (5 months), Solana (2 years)  
-**Mobile Development**: React Native  
-**Team Leadership**: 5 years of experience  
-**Teaching Programming**: 3 years of experience  
-
----
-
-### Certifications
-
-- **Certified Blockchain Developer**
-- **Full-Stack Web Development Certification**
-- **Project Management Professional (PMP)**
+| Project                                                                                           | Description                                                                                  |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [**Nibble – Android Launcher**](https://play.google.com/store/apps/details?id=com.nibble.zen.app) | A minimalist productivity launcher designed to reduce screen clutter and boost focus.        |
+| [**LayerK Voting Poll**](https://layerkpolls.vercel.app/)                                         | Decentralized poll DApp built for LayerK. Smart-contract integrated, currently under audit.  |
+| [**Deals Finders App**](https://play.google.com/store/apps/details?id=com.dealsfinders.app&hl=en) | Full-featured eCommerce app to track and surface best online deals in real-time.             |
+| [**uToura**](https://utoura.com/)                                                                 | Scalable tourism platform offering curated itineraries, reviews, and local activities.       |
+| **GoPulse Presale System**                                                                        | Cross-chain token launcher with automated burns, reflection tax logic, and PoS bridging.     |
+| **PedroStake V3**                                                                                 | Custom ERC20+NFT staking logic with time locks, multipliers, and early withdrawal penalties. |
+| **Rust Mempool Sniper Bot**                                                                       | Flashbot-powered bot for Ethereum with Rust core — ultra-fast, stealth-ready.                |
+| **AI Book Summary App**                                                                           | Text + audio summaries with customizable AI voices, designed for speed-learning.             |
 
 ---
 
-### Top Languages
+## 🧠 **Technical Skills**
 
-[![Rashid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgroot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Languages & Frameworks
 
----
+* **Frontend**: React, Next.js, JavaScript, TypeScript
+* **Mobile**: React Native, Flutter, SwiftUI, Jetpack Compose
+* **Backend**: Node.js, NestJS
+* **Blockchain**: Solidity (4 yrs), Rust (5+ months), Solana (2 yrs)
+* **UI/UX**: Figma, Framer (expert)
 
-### Languages and Tools
+### Dev Tools & Infra
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=white&labelColor=363636)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=B7410E)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=000000&labelColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933&labelColor=ffffff)
+* Git / GitHub
+* Hardhat / Foundry
+* Vercel, Firebase, Supabase
+* GraphQL, REST APIs
+* PostgreSQL, MongoDB
+* Recoil, Zustand, TanStack Query
 
 ---
 
-📝 **_Got a project in mind? Let's build the future, one block at a time._** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/thatgroot?label=Follow%20Me&style=social)](https://github.com/thatgroot)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
-[![Mail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:ifreetsamit+dev@gmail.com) 
+## 📱 **Mobile Apps (Live)**
 
-</br>
-<p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-readme-stats.vercel.app/api?username=thatgroot" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
+* **Nibble Launcher** – [Google Play](https://play.google.com/store/apps/details?id=com.nibble.zen.app)
+* **Deals Finders** – [Google Play](https://play.google.com/store/apps/details?id=com.dealsfinders.app&hl=en)
+* **uToura** – [Website](https://utoura.com/)
+
+---
+
+## 🌐 **Web3 Products**
+
+* **LayerK Polling DApp** – [Live Demo](https://layerkpolls.vercel.app/)
+* **GoPulse Presale Engine** – \[Custom Token Launcher (Private Repo)]
+* **PedroStake v3** – Staking logic for ERC20 and NFTs
+* **NFT Bridge Protocol** – L1 <-> L2 + Metadata Handling
+* **Merkle Whitelisting Tools** – for fair presales and drops
+
+---
+
+## 🎓 **Certifications**
+
+* Certified Blockchain Developer
+* Full-Stack Web Development (Bootcamp)
+* PMP (Project Management Professional)
+
+---
+
+## 🧑‍🏫 **Experience**
+
+**Founder & Tech Lead – MountPackt**
+*2020 – Present*
+
+* Led 40+ projects across fintech, Web3, eCommerce, AI, and productivity tools
+* Designed and deployed dApps, launchpads, staking contracts, and native mobile apps
+* Collaborated with founders and DAOs across Europe, MENA, and Southeast Asia
+
+**Programming Instructor – Freelance**
+*2019 – 2022*
+
+* Taught over 100 students full-stack and blockchain development
+* Focused on project-based learning and real-world implementation
+
+---
+
+## 📊 **GitHub Stats**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgroot\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=thatgroot\&show_icons=true\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🧩 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashid%20Iqbal-blue?logo=linkedin\&labelColor=black)](https://www.linkedin.com/in/thatgroot/)
+[![Gmail](https://img.shields.io/badge/Gmail-Rashid%20Iqbal-red?logo=gmail\&labelColor=black)](mailto:ifreetsamit+dev@gmail.com)
+[![Follow Me](https://img.shields.io/github/followers/thatgroot?label=Follow%20Me\&style=social)](https://github.com/thatgroot)
+
